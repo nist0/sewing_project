@@ -14,3 +14,18 @@
 [5]: https://simplicity.com/butterick-patterns?utm_source=chatgpt.com "Shop Butterick Sewing Patterns for Your Day-to-Day Fashion"
 [6]: https://www.makerist.com/?utm_source=chatgpt.com "makerist"
 [7]: https://sewing.patternreview.com/SewingDiscussions/topic/129792?utm_source=chatgpt.com "Makerist Says Good-bye - Sewing Pattern Review"
+
+
+
+patrons sites : 
+-https://simplicity.com/vogue-patterns/v2133
+-https://simplicity.com/vogue-patterns/v2134
+-https://www.burdastyle.fr/veste-kimono-n-124.html
+-https://patternsforless.com/products/bow-back-babydoll-cami-top-sewing-pattern
+https://patternsforless.com/products/twist-backless-crop-knit-tee-sewing-pattern
+
+
+patrons youtube :
+-https://www.youtube.com/watch?v=xQgUOfPJVxQ
+-https://www.youtube.com/watch?v=6h7pZYJYKZk
+-https://www.youtube.com/watch?v=Je-NGVGgDU4
