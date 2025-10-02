@@ -14,6 +14,7 @@ cned
 - [ ] voir comment ajuster une robe au corps
 - [ ] essayer d'ajuster ma robe
 
+03/10
 - [ ] choisir un patron
 - [ ] faire du repérage de tissu
   
