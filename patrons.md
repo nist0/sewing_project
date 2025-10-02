@@ -29,3 +29,8 @@ patrons youtube :
 -https://www.youtube.com/watch?v=xQgUOfPJVxQ
 -https://www.youtube.com/watch?v=6h7pZYJYKZk
 -https://www.youtube.com/watch?v=Je-NGVGgDU4
+
+
+
+retouches robe : 
+https://www.youtube.com/watch?v=phZOsGYXnAQ
