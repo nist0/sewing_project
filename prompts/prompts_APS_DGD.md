@@ -1,13 +1,27 @@
 # 📚 Bibliothèque de prompts – APS / DGD
 
-Fichier à utiliser comme **base de prompts de travail** dans :
+Fichier à utiliser comme **base de prompts de travail** dans :
 
 - ChatGPT
 - Mammouth AI
 - VS Code / GitHub (commentaires, notes, etc.)
 
-Tu as déjà défini tes personas (APS, DGD, CPO, CTO, etc.) :  
+Tu as déjà défini tes personas (APS, DGD, CPO, CTO, etc.) :  
 ces prompts servent à **les appeler / les utiliser facilement**.
+
+Les sections ci-dessous sont organisées par type d’usage :
+
+- **Section 1 : Prompts génériques APS / DGD** (clarifier, planifier, prioriser…).
+- **Section 2 : Organisation personnelle & revue**.
+- **Section 3 : Stratégie & business**.
+- **Section 4 : Produit & tech**.
+- **Section 5 : Communication & écrits**.
+- **Section 6 : Prompts pour GitHub Copilot / code**.
+
+Pour une vue d’ensemble plus large, voir aussi :
+
+- `APS_README.md` – Vue globale du système APS.
+- `chatmodes/chatmodes_APS_DGD.md` – Chatmodes associés.
 
 ---
 
@@ -17,12 +31,12 @@ ces prompts servent à **les appeler / les utiliser facilement**.
 - Remplacer les `{{...}}` par ton contexte.
 - Tu peux aussi créer des *snippets* dans VS Code ou des favoris dans ChatGPT / Mammouth.
 
-Notation :
+Notation :
 
-- `[RÔLE]` : quel persona tu veux activer.
-- `[TÂCHE]` : ce que tu lui demandes précisément.
-- `[ENTRÉE]` : ce que tu lui fournis.
-- `[SORTIE ATTENDUE]` : forme du résultat que tu veux.
+- `[RÔLE]` : quel persona tu veux activer.
+- `[TÂCHE]` : ce que tu lui demandes précisément.
+- `[ENTRÉE]` : ce que tu lui fournis.
+- `[SORTIE ATTENDUE]` : forme du résultat que tu veux.
 
 ---
 
@@ -267,11 +281,11 @@ M’aider à définir ou challenger un business model.
 4) Principaux postes de coûts.  
 <!-- 5) Hypothèses de volumes / pricing (ordres de grandeur, pas besoin de précision extrême).   -->
 <!-- 5) Hypothèses de volumes / pricing (ordres de grandeur, pas besoin de précision extrême).   -->
-6) 3–5 KPI clés à suivre.
+1) 3–5 KPI clés à suivre.
 
 ---
 
-# 4. Produit & tech
+## 4. Produit & tech
 
 ## 4.1 Cadrer un MVP produit (APS + CPO + CTO)
 
@@ -335,7 +349,7 @@ Identifier les principaux risques techniques et dettes sur ce projet / cette sta
 
 ---
 
-# 5. Communication & écrits
+## 5. Communication & écrits
 
 ## 5.1 Synthèse exécutive (APS)
 
@@ -380,7 +394,7 @@ Objectif du message :
 
 ---
 
-# 6. Prompts pour GitHub Copilot / code
+## 6. Prompts pour GitHub Copilot / code
 
 Ces prompts sont pensés pour être utilisés en commentaires dans le code, ou en description d’issue.
 
