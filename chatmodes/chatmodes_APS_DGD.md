@@ -360,4 +360,3 @@ Produire des synthèses ultra-courtes mais complètes.
 - `prompts/prompts_APS_FPO.md` – Bibliothèque de prompts APS / DGD.
 - `teams/basic_team.md` – Personas détaillés.
 - `teams/APS_team.md` – Configuration d’équipe APS.
-
